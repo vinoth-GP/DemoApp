@@ -1,0 +1,37 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/InstrumentSans-Bold.ttf",
+      "sha1": "79d2e1267477badeff623c3b69ade7aaffe14fff"
+    },
+    {
+      "path": "assets/fonts/InstrumentSans-BoldItalic.ttf",
+      "sha1": "8006e202a046b6fa136356837573994993b9adb0"
+    },
+    {
+      "path": "assets/fonts/InstrumentSans-Italic.ttf",
+      "sha1": "04289a87efe4a31dd8030ffee512b25619bee641"
+    },
+    {
+      "path": "assets/fonts/InstrumentSans-Medium.ttf",
+      "sha1": "312d5970140553bbb0cb5b6d44d8d1da9fe3e2d8"
+    },
+    {
+      "path": "assets/fonts/InstrumentSans-MediumItalic.ttf",
+      "sha1": "41cc6b4e05d05ca224b31553e4f8bc3608fb27ac"
+    },
+    {
+      "path": "assets/fonts/InstrumentSans-Regular.ttf",
+      "sha1": "b62434d9dfd9ee728ece7617579a3b18b7575dbb"
+    },
+    {
+      "path": "assets/fonts/InstrumentSans-SemiBold.ttf",
+      "sha1": "f7dbb3c713b9f2033d880980b9ca82faeaf4a8c4"
+    },
+    {
+      "path": "assets/fonts/InstrumentSans-SemiBoldItalic.ttf",
+      "sha1": "e6d912234e3424bae82f3e054b4ab34108337713"
+    }
+  ]
+}

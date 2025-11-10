@@ -38,6 +38,10 @@ bower_components
 build/Release
 
 # Dependency directories
+vendor/
+ios/Pods
+android/app/build/
+android/app/.cxx/
 node_modules/
 jspm_packages/
 

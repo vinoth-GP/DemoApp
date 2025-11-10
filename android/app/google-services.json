@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "200904243787",
+    "firebase_url": "https://loginauth-3695e-default-rtdb.firebaseio.com",
+    "project_id": "loginauth-3695e",
+    "storage_bucket": "loginauth-3695e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:200904243787:android:f583252f2ac62f2e2c2bce",
+        "android_client_info": {
+          "package_name": "com.loginauth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdfNe3lvd2ea_o8wMxxTYjYzMsfX10OSI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
